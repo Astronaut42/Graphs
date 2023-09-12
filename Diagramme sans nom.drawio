@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2023-09-12T10:02:20.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="URVg9cA4C6SWvH99nOYr" version="21.6.8" type="github">
+  <diagram name="Page-1" id="qFKywjU_CISCYqXWasRR">
+    <mxGraphModel dx="1035" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-1" value="Ecologie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-2" value="Physiologie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-3" target="H0-iRUkDedhJwyiIPKzf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-3" value="Eco-toxicologie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-5" value="Toxicologie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-8" value="Ecophysiologie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="294" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-11" value="Evolution, génétique, chique, biologie moléculaire,etc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-13" value="Ecologie chimique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-3" target="H0-iRUkDedhJwyiIPKzf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-3" target="H0-iRUkDedhJwyiIPKzf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-1" target="H0-iRUkDedhJwyiIPKzf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-1" target="H0-iRUkDedhJwyiIPKzf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-5" target="H0-iRUkDedhJwyiIPKzf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="sourcePoint" />
+            <mxPoint x="590" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0-iRUkDedhJwyiIPKzf-22" target="H0-iRUkDedhJwyiIPKzf-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-22" value="Evaluation de la qualité des milieux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="H0-iRUkDedhJwyiIPKzf-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="500" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-25" value="Evaluation du risquer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0-iRUkDedhJwyiIPKzf-26" value="Gestion de l&#39;énvironnement" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
